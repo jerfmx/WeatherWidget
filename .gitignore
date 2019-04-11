@@ -1,6 +1,7 @@
 .git
-target\*log
+target
+*log
 localhost*
 hs*
 dist
-
+core
